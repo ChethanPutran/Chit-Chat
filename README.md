@@ -157,9 +157,7 @@ Contributions, issues, and feature requests are welcome!
    nano README.md
    # or edit with VS Code
    code README.md
-
-```
-
+   ```
 2. Paste the contents above and save.
 3. Commit and push to GitHub:
 ```bash
